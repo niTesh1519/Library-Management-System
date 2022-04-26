@@ -13,7 +13,7 @@ public class LibraryManagementSystem extends JFrame implements ActionListener{
 		
                 setSize(1366,390);
                 setLayout(null);
-                setLocation(0,170);
+                setLocation(300,300);
 
 		l1 = new JLabel("");
                 b1 = new JButton("Next");
